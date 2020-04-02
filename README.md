@@ -37,4 +37,4 @@ In order to perform the trend analysis using the landscape metrics values, a ~10
 
  ![](https://github.com/brunomontibeller/LandscapeMetrics_and_TrendCalc/blob/master/image.png)
 
-The metrics.csv files with year, ID and landscape metric values for each fishnet tile were the input for performing Mann-Kendall trend analysis. A R script used for to calculating the Mann Kendall trend and its significance can be found here (link). 
+The metrics.csv files with year, ID and landscape metric values for each fishnet tile were the input for performing Mann-Kendall trend analysis. A R script used for to calculating the Mann Kendall trend and its significance can be found here (https://github.com/LandscapeGeoinformatics/LandscapeMetrics_and_TrendCalc/blob/master/mann_kendall_test.R). 
